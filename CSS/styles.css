@@ -14,3 +14,10 @@
     padding: 10px;
     border-radius: 5px;
 }
+
+.thirdt :hover, a:hover {
+    color: red;
+}
+a:visited {
+    color: purple;
+}
