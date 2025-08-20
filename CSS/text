@@ -1,0 +1,4 @@
+1. Element Selector (use for each tag individually use by .)
+2. Universal Selector (use for whole page by use of *)
+
+ID Propperty : assigns a unique identifier to a single HTML Element.

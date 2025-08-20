@@ -1,0 +1,16 @@
+#first {
+    color: blueviolet;
+}
+#second {
+    color: green;
+}
+.third {
+    color: darkorange;
+}
+
+.myDiv {
+    border: 6px solid black;
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 5px;
+}
