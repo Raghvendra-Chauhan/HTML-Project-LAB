@@ -16,7 +16,7 @@
 }
 
 .third:hover, a:hover {
-    color: violet   ;
+    color: red   ;
 }
 a:visited {
     color: purple;
