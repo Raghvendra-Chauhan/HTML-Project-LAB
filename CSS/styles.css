@@ -15,7 +15,7 @@
     border-radius: 5px;
 }
 
-.thirdt :hover, a:hover {
+.third:hover, a:hover {
     color: red;
 }
 a:visited {
