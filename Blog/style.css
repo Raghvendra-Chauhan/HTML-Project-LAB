@@ -1,0 +1,53 @@
+h1{
+    text-align : center;
+    color:rgb(4, 4, 105);
+    text-transform: uppercase;
+}
+#post article p{
+    color: #666;
+    line-height: 1.6;
+    font-size: 16px;
+}
+body{
+    background-color: rgb(236, 232, 222);
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fhomepage%2F&psig=AOvVaw3QsQIoNV1YM7C4_dyzQola&ust=1756351851556000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi-pdCGqo8DFQAAAAAdAAAAABAE);
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: rgb(255, 233, 206);
+    padding: 16px;
+    border-radius: 16px;
+}
+img{
+    height: 300px;
+    border-radius: 10px;
+}
+nav a{
+    text-decoration: none;
+    color: blue;
+    margin: 0 10px;
+    font-weight: bold;
+}
+table{
+    border-collapse: 16px;
+    text-align: center;
+    margin: auto;
+    
+}
+table,th,td{
+    border: 2px solid black;
+}
+th{
+    background-color: #a7a7a7;
+    border-radius: 16px;
+}
+th,td{
+    padding: 6px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: #ffe5ae;
+    border-radius: 17px;
+    padding: 30px;
+}
