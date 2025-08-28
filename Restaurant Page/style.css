@@ -13,6 +13,7 @@ header{
     display: block;
     width:160px;
     background: black;
+    background-image: url(image.png);
     color: white;
     height: 100vh;
     padding: 20px;
