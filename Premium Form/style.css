@@ -1,0 +1,32 @@
+.b{
+    background-color: rgb(80, 80, 234);
+    padding: 6px;
+}
+header{
+    background-color: aliceblue;
+    text-align: center;
+    padding: 6px;
+    margin-bottom: 7px;
+
+}
+.main{
+    display: flex;
+    width: 100%;
+    gap: 18px;
+}
+.link{
+    background-color: aliceblue;
+    width: 100px;
+    padding: 10px;    
+}
+.sample{
+    background-color: aliceblue;
+    padding: 10px; 
+
+}
+footer{
+    background-color: aliceblue;
+    text-align: center;
+    padding: 6px;
+    margin-top: 6px;
+}

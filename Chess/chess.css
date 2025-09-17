@@ -2,6 +2,7 @@
     background-color: white;
     width: 60px;
     height: 60px;
+    
 }
 .black{
     background-color: black;
@@ -10,5 +11,5 @@
 }
 .chess{
     border: 7px solid black;
-    text-align: center;
+    align-items: center;
 }
