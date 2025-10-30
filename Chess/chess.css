@@ -1,15 +1,38 @@
+body{
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin: 200px;
+    display: flex;
+}
+/* .box{
+    width: 500px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px ;
+    overflow: hidden;
+    text-align: center;
+    transition: all;
+    padding: 60px;
+} */
 .white{
     background-color: white;
     width: 60px;
     height: 60px;
+    border-radius: 6px;
     
 }
 .black{
     background-color: black;
     width: 60px;
     height: 60px;
+    border-radius: 6px;
 }
 .chess{
     border: 7px solid black;
+    border-radius: 9px;
     align-items: center;
+    width:100%;
+    background-color: rgb(71, 71, 71);
+    
 }
